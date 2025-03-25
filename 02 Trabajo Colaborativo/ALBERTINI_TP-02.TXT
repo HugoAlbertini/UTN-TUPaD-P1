@@ -1,0 +1,64 @@
+Trabajo: Albertini, Hugo Agustin
+
+Práctico 2: Git y GitHub
+Objetivo: El estudiante desarrollará competencias para trabajar con Git y GitHub, aplicando conceptos fundamentales de control de versiones, colaboración en proyectos y resolución de conflictos, en un entorno simulado y guiado
+
+Actividades 
+1) Contestar las siguientes preguntas utilizando las guías y documentación proporcionada (Desarrollar las respuestas) : 
+• ¿Qué es GitHub? Es llevar a cabo un control muy eficiente del ciclo de vida de todo proyecto además de los colaboradores que trabajan sobre el
+• ¿Cómo crear un repositorio en GitHub? 1)Inicias sesión en GitHab.
+ 2) Clickeas en nuevo repositorio.
+ 3) Completas los nombres y descripción que quieras, seleccionas privado o publico.
+ 4) Creas repositorio
+• ¿Cómo crear una rama en Git? Para crear una rama en git tenes que ingresar el comando 
+“git branch nombre-rama “
+
+• ¿Cómo cambiar a una rama en Git? Para cambiar de rama ingresar comando “git checkout nombre-rama “
+
+• ¿Cómo fusionar ramas en Git? Para fusionar, tenes que posicionarte en la rama destino con el comando “git checkout” después hacer el merge con el comando “git merge nombre-rama”
+
+• ¿Cómo crear un commit en Git? Para crear un commit ocupamos el comando “git commit –m “mensaje”
+
+• ¿Cómo enviar un commit a GitHub? Para enviar un commit a github tenemos que ingresar el comando “git push master nombre-rama”
+
+• ¿Qué es un repositorio remoto? El repositorio remoto es una versión alojada en un servidor como en este caso es GitHub, para colaboración en conjunto
+
+• ¿Cómo agregar un repositorio remoto a Git? Para agregar un repositorio remoto a git utilizamos el comando “git remote add master “link del repositorio”
+
+• ¿Cómo empujar cambios a un repositorio remoto? Para empujar se utiliza el comando “git push” 
+
+• ¿Cómo tirar de cambios de un repositorio remoto? Para traer los cambios tenemos que ocupar el comando “git pull”
+
+• ¿Qué es un fork de repositorio? Un fork es la copia personal de un repositorio ajeno en la cuenta del usuario que lo solicito, se utiliza para proponer cambios sin afectar el original
+
+• ¿Cómo crear un fork de un repositorio? En GitHub, vas al repositorio original y haces clic en Fork
+
+• ¿Cómo enviar una solicitud de extracción (pull request) a un repositorio? Para solicitar un PR vamos al repositorio original > Pull request > Nuevo Pull request
+
+• ¿Cómo aceptar una solicitud de extracción? En GitHub, revisas los cambios y haces clic en Merge pull request para fusionarlos
+
+• ¿Qué es un etiqueta en Git? La etiqueta marca un commit especifico, por ejemplo podes aclarar algún punto importante para tener en cuenta de ese commit
+
+• ¿Cómo crear una etiqueta en Git? Para crear una etiqueta se utiliza el comando “git tag”
+
+•¿Cómo enviar una etiqueta a GitHub? Para enviar etiquetas a GitHub, podremos utilizar “git push origin nombre-etiqueta” o para enviar todas “git push - -tags”
+
+• ¿Qué es un historial de Git? El historial es útil para tener un registro cronológico de todos los commits realizados en el repositorio 
+
+• ¿Cómo ver el historial de Git? Para ver el historial tendremos que ocupar “git log” muestra todos los commis
+
+• ¿Cómo buscar en el historial de Git? Para buscar utilizamos “git log –s “texto” para buscar commits que modificaron “texto”
+
+• ¿Cómo borrar el historial de Git? Podremos utilizar “git reset - - hard <commit>” 
+
+• ¿Qué es un repositorio privado en GitHub? El repositorio privado es visible o editable solo por el dueño y colaboradores invitados
+
+• ¿Cómo crear un repositorio privado en GitHub? Cuando creas un repositorio en GitHab tenes la opción de marcar como PRIVADO
+
+• ¿Cómo invitar a alguien a un repositorio privado en GitHub? Para invitar, ingresamos a GitHab > vamos a Settings > Collaborators > Add people
+
+• ¿Qué es un repositorio público en GitHub? A diferencia del privado, el público es visible para todos, pero solo los colaboradores pueden editarlo
+
+• ¿Cómo crear un repositorio público en GitHub? En GitHab, al crear el repositorio lo seleccionamos como PUBLICO
+
+• ¿Cómo compartir un repositorio público en GitHub? Compartiendo el URL, otras personas pueden clonarlo o hacer fork del repositorio
