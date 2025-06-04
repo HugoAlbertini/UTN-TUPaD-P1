@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍🎓 Estudiante  
-- **Nombre:** Renzo Calcatelli  
+- **Nombre:** Hugo Agustin Albertini
 - **Comisión:** M2025-1  
 
 ---
