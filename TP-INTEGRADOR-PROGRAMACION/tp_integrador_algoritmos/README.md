@@ -43,7 +43,7 @@ integrador_algoritmos/
 
 ```bash
 # 1. Clonar o descargar el repositorio
-git clone https://github.com/rcalcatelli/UTN-TUPaD-P1
+git clone https://github.com/HugoAlbertini/UTN-TUPaD-P1
 
 # 2. Navegar al directorio
 cd integrador_algoritmos
